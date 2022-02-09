@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @overweightbarracuda
-- 👀 I’m interested in ... Ur mom
-- 🌱 I’m currently learning ... how to hide a body, btw, have u seen ur mom recently?
-- 💞️ I’m looking to collaborate on ... ur mom
-- 📫 How to reach me ... ask ur mom
+- 👀 I’m interested in ... Ml and neural networks and stuff
+- 🌱 I’m currently learning ... C# for unity
+- 💞️ I’m looking to collaborate on ... Nothing much
+- 📫 How to reach me ... pablovempala@gmail.com
 
 <!---
 overweightbarracuda/overweightbarracuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
