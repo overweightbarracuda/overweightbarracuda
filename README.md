@@ -1,4 +1,3 @@
-Why you lookin at my profile you freakazoid
 
 <!---
 overweightbarracuda/overweightbarracuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
